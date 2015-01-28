@@ -25,8 +25,8 @@ public abstract class GameObject {
 	public String getName(){
 		return name;
 	}
-	public void setName(String name){
-		this.name = name;
+	public void setName(){
+		
 	}
 	public void setX(int xPos){
 		this.xPos = xPos;	
