@@ -16,13 +16,6 @@ public abstract class GameObject {
 	
 	abstract void update();
 	
-	public int getXPos(){
-		return xPos;
-	}
-	public int getYPos(){
-		return yPos;
-	}
-	public String getName(){
-		return name;
-	}
+	
+
 }
